@@ -1,6 +1,5 @@
 ---
 title: Style Guide
-status: Published
 author_name: Rose  Petralia
 author_email: rose@lacking.org
 last_update: '2022-05-02T11:39:09.000-04:00'

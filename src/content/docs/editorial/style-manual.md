@@ -1,6 +1,6 @@
 ---
 title: Style Manual
-status: Draft
+draft: true
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-19T21:27:31.000-04:00'

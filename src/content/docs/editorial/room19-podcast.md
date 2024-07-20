@@ -1,6 +1,5 @@
 ---
 title: Room 19 Podcast
-status: Published
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-22T10:27:30.000-04:00'

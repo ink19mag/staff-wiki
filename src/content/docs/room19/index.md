@@ -1,6 +1,5 @@
 ---
 title: Room 19
-status: Published
 ---
 ### What is Mastodon? What is Room 19?
 

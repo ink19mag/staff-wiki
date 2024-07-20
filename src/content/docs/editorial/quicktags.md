@@ -1,6 +1,6 @@
 ---
 title: Delete Me
-status: Draft
+draft: true
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2020-12-12T22:20:50.000+00:00'

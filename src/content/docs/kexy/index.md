@@ -1,6 +1,6 @@
 ---
 title: Kexy CMS
-status: Draft
+draft: true
 author_name: Ian Koss
 author_email: code@hischeapmoves.com
 last_update: '2020-12-06T00:22:44.000+00:00'

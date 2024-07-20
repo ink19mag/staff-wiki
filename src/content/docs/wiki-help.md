@@ -1,6 +1,5 @@
 ---
 title: How to Wiki
-status: Published
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2021-03-10T19:46:51.000-05:00'

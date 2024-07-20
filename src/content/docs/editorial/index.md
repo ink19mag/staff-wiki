@@ -1,6 +1,5 @@
 ---
 title: Editorial
-status: Published
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-22T11:12:44.000-04:00'

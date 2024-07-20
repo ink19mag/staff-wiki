@@ -1,6 +1,5 @@
 ---
 title: Editorial Sections
-status: Published
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-22T12:45:17.000-04:00'

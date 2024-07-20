@@ -1,6 +1,5 @@
 ---
 title: Post an Article
-status: Published
 ---
 With contributors all over the world using a variety of technologies, we could have a potential mess of duplicated stories, frustrated efforts, and general confusion, but we don't have that. What we do have is a time-tested process for requesting and reviewing materials, attending events, and writing stories for _Ink 19_. Familiarity with the process really helps as you get started. 
 

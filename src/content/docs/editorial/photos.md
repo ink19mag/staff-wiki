@@ -1,6 +1,5 @@
 ---
 title: Photo Conventions
-status: Published
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2021-03-11T02:14:07.000+00:00'

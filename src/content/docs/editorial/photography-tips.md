@@ -1,6 +1,5 @@
 ---
 title: Photography Tips
-status: Published
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-21T18:00:38.000-04:00'

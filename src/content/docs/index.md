@@ -1,6 +1,5 @@
 ---
 title: Staff Wiki Home
-status: Published
 author_name: Rose  Petralia
 author_email: rose@lacking.org
 last_update: '2022-05-16T11:22:30.000-04:00'

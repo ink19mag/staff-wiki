@@ -1,6 +1,6 @@
 ---
 title: Formatting with Quicktags
-status: Draft
+draft: true
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2021-03-10T02:32:53.000+00:00'

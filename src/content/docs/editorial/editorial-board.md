@@ -1,6 +1,6 @@
 ---
 title: Editorial Board
-status: Draft
+draft: true
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2021-03-11T00:49:52.000+00:00'

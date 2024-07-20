@@ -1,6 +1,5 @@
 ---
 title: Staff Guide
-status: Published
 author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-19T20:28:59.000-04:00'
