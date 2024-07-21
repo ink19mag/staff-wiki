@@ -1,10 +1,13 @@
 ---
+sidebar:
+  order: 5
 title: Formatting
-author_name: Rose Petralia
-author_email: rose@lacking.org
-last_update: '2022-04-22T10:48:42.000-04:00'
 ---
-This material is intended for _Ink 19_ staff. Not you? [Apply here](https://ink19.com/staff/join-us).
+
+import { Aside } from '@astrojs/starlight/components';
+
+<Aside>This material is intended for _Ink 19_ staff. Not you? [Apply here](https://ink19.com/staff/join-us).</Aside>
+
 
 Markdown syntax and "Quicktags" format article text and paragraphs in our published content. In general, you will not have to enter Quicktags yourself &mdash; article parts such as headline, byline, body, etc. are tagged when you submit a draft. Once they are in place, they can be left alone, unless you need some very specific formatting changes.
 
@@ -14,7 +17,7 @@ Note that formatting from Word or other programs __does not transfer__ to our ar
 
 Every paragraph in your reviews starts with a Quicktag. Quicktags determine the formatting of each paragraph, with one completely blank line between paragraphs. 
 
-## Three Formatting Options
+## Formatting Options
 
 Apply formatting to all or part of a text block.
 
@@ -32,7 +35,7 @@ Apply formatting to all or part of a text block.
 ### 2. Image formatting
 
 - The Images Manager in the article form is where uploads, alignment, captions, and credits are set. Image uploads are typically managed by the editors.
-- Inserting an image into an article only specifies its location within the article. To insert an uploaded image into an article, surround the title in double brackets ``[[uploaded_image.jpg]]`` or ``[[A Nicely Titled Image]]`` and place it in its own paragraph, with one completely blank line above and below. The text will be replaced with the image and its associated caption.
+- Inserting an image into an article only specifies its location within the article. To insert an uploaded image into an article, surround the title in double brackets ``[[uploaded_image.jpg]]`` or ``[[A Nicely Titled Image]]`` and place it in its own paragraph, with one completely blank line above and below. The text will be replaced with the image and its associated captions.
 
 ## Quicktags
 
@@ -79,5 +82,3 @@ Apply formatting to all or part of a text block.
 |wm      |`<p>`         |body-middle      |
 |wd      |`<p>`         |review-address   |
 |wb      |`<h4>`        |review-byline    |
-
-&nbsp;

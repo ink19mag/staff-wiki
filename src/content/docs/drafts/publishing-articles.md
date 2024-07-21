@@ -23,17 +23,17 @@ Every story should have a description that includes the author's name as bold ty
 
 Make sure the story and column sections are correct.
 
-Music review subsections should be added by entering “Music X” in the subsection field, where “X” is the first letter of the review’s index section. For example, “The Pixies” would be in “Music P,” while “Robyn Hitchcock” would be in “Music H.”
+Music review subsections should be added by entering "Music X" in the subsection field, where "X" is the first letter of the review's index section. For example, "The Pixies" would be in "Music P," while "Robyn Hitchcock" would be in "Music H."
 
 ### Correct indexing, keywords, and cross-referencing
 
-The “Index” field should contain the standard index entry for the story, similar to the index in the back of a textbook. For the examples above, use “Pixies, The” and “Hitchcock, Robyn” correspondingly.
+The "Index" field should contain the standard index entry for the story, similar to the index in the back of a textbook. For the examples above, use "Pixies, The" and "Hitchcock, Robyn" correspondingly.
 
 You can also add additional keywords or cross-references, especially if none currently exist.
 
 ## 2. Check Off Media Assignment
 
-This step is only applicable if review materials were sent to staff by <em>Ink 19</em>. Find the item in “Review Materials” and click on the bold link of the writer's name. This will mark the item as “Reviewed” and take it off the writer's assignment list.
+This step is only applicable if review materials were sent to staff by <em>Ink 19</em>. Find the item in "Review Materials" and click on the bold link of the writer's name. This will mark the item as "Reviewed" and take it off the writer's assignment list.
 
 ## 3. Add Graphics
 
@@ -41,7 +41,7 @@ This step is only applicable if review materials were sent to staff by <em>Ink 1
 
 All stories should have a custom badge if possible. The badge is the smallish square which is displayed alongside the story on the home page and in other indexes. Badges are exactly 125 pixels square, and should not be larger or smaller. In the case of columns, you do not need to add a badge; each column has a default badge it can use.
 
-To add a badge, view the story and click on the “Add Badge” link toward the bottom. A new popup window should open. You can attach a file that's local to your computer, or if the image is online somewhere, enter its URL in the 'Source URL' field and the system will download the image.
+To add a badge, view the story and click on the "Add Badge" link toward the bottom. A new popup window should open. You can attach a file that's local to your computer, or if the image is online somewhere, enter its URL in the 'Source URL' field and the system will download the image.
 
 The majority of badges will be used will be for record reviews. In this case, you can use the "Review Materials" section to locate a prepared badge. Right-click on the image link and select an appropriate menu item to open it in a new window or copy the image location to the clipboard. You can enter the image's URL in the 'Source URL' field on the badge popup.
 
