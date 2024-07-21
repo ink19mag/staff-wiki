@@ -4,38 +4,40 @@ author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-22T10:48:42.000-04:00'
 ---
-_Ink 19_ relies on Markdown syntax and "Quicktags" to format text and paragraphs in published content. In general, you will not have to enter Quicktags yourself&mdash;tags for article parts such as headline, byline, body, etc. are inserted when you submit a draft. Once they are in place, they can be left alone, unless you need some very specific formatting changes.
+This material is intended for _Ink 19_ staff. Not you? [Apply here](https://ink19.com/staff/join-us).
+
+Markdown syntax and "Quicktags" format article text and paragraphs in our published content. In general, you will not have to enter Quicktags yourself &mdash; article parts such as headline, byline, body, etc. are tagged when you submit a draft. Once they are in place, they can be left alone, unless you need some very specific formatting changes.
+
+Note that formatting from Word or other programs __does not transfer__ to our article forms.
 
 ## Quicktags Overview
 
-Every paragraph in your reviews must start with a Quicktag. Fundamentally, Quicktags operate on text blocks, each block being defined by text on a line followed by one or more empty lines. 
+Every paragraph in your reviews starts with a Quicktag. Quicktags determine the formatting of each paragraph, with one completely blank line between paragraphs. 
 
-## Formatting Options
+## Three Formatting Options
 
-Apply formatting to all or part of a text block using one of three options below. Read more about each option below the list.
+Apply formatting to all or part of a text block.
 
-1. __Entire paragraph/block formatting__ requires only a two-letter block tag preceded by a hyphen and followed by one space: `-bm `. The tag applies the correct formatting to the block.  
-3. __Image formatting__ does not need a block tag. In a new block, type the image title surrounded by double brackets: `[[Example Image]]`.  
-2. __Special text formatting__ within a block, such a making words __bold__ or _italic_ or converting a URL into a clickable link with a text label, is handled using [Markdown syntax](https://www.markdownguide.org/basic-syntax).  
+1. __Entire paragraphs__ require only a Quicktag (two-letter block tag preceded by a hyphen and followed by one space) to apply the correct formatting to the paragraph: `-bm `
+3. __Image formatting__ does not need a Quicktag. On a blank line, type the image title surrounded by double brackets: `[[Example Image]]`.  
+2. __Special text formatting__ within a paragraph, such as __bold text__ or _italics_ or hyperlinks, are handled using [Markdown syntax](https://www.markdownguide.org/basic-syntax).  
 
-### Text Formatting  
+### 1. Text Formatting  
 
-- You can apply several types of text (inline) formatting within in an article block.
-- Italics are commonly used at _Ink 19_. Italicize by surrounding text with underscores, `_like this_`. Make text bold by using double underscores, `__like this__`  (bold text within article copy should be used incredibly sparingly).
-- Bare urls (like https://ink19.com) will be auto-converted to links, but to craft a link with a label, put the label in square brackets and follow it immediately with the URL in parentheses: `[Ink 19 Home](https://ink19.com)`.
-- You can use HTML for inline formatting, `<i>like this</i>`, but using Markdown is preferred, as it makes reading and proofing the text easier.
-- A variety of typographic niceties are performed automatically, such as converting straight quotes and apostrophes into their appropriate curly equivalents.
+- Italicize by surrounding text with underscores, `_like this_`. 
+- Make text bold by using double underscores, `__like this__` .
+- Put website labels in square brackets followed immediately with the URL in parentheses: `[Ink 19 Home](https://ink19.com)`.
 
-### Image formatting
 
-- The Images Manager is where uploads, alignment, captions, and credits are set. Image uploads are typically managed by the editors.
-- Inserting an image into an article only specifies its location within the article. To insert an uploaded image into an article, surround the title in double brackets ``[[uploaded_image.jpg]]`` or ``[[A Nicely Titled Image]]`` and place it in its own block. The text will be replaced with the image and its associated caption.
+### 2. Image formatting
 
-### Block Formatting
+- The Images Manager in the article form is where uploads, alignment, captions, and credits are set. Image uploads are typically managed by the editors.
+- Inserting an image into an article only specifies its location within the article. To insert an uploaded image into an article, surround the title in double brackets ``[[uploaded_image.jpg]]`` or ``[[A Nicely Titled Image]]`` and place it in its own paragraph, with one completely blank line above and below. The text will be replaced with the image and its associated caption.
 
-- The list of _Ink 19_ block tags has grown over the years, as the tag indicates not only how the block should be formatted but also what type of text it represents. 
-- Each Quicktag adds a specific CSS class to the block, and may change the block's HTML tag (by default `<p>`) into some other tag more appropriate to the type of text (e.g. `<h1>`).
-- Remember to add a hyphen before and a space after when you use them (`-bf `) and be sure the hyphen is the first character of the line.
+## Quicktags
+
+- Each Quicktag adds specific CSS Class formatting to the paragraph.
+- Add a hyphen before and a space after Quicktags (`-bf `), and be sure the hyphen is the first character of the line.
 - See commonly used Quicktags below! 
 
 |Quicktag|HTML Block    |CSS Class        |

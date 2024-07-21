@@ -4,9 +4,10 @@ author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-22T10:27:30.000-04:00'
 ---
-_Room 19_ is _Ink 19_'s podcast collection, available on Anchor FM, Spotify, Apple Music, and most podcast platforms. Event, book, food, and film categories supplement our main music-focused podcast, _New Music Now_. Podcast episodes are produced and engineered by our Audio team and feature an _Ink 19_ host, interesting and relevant guests, and typically a musical component.
+This material is intended for _Ink 19_ staff. Not you? [Apply here](https://ink19.com/staff/join-us).
 
-- Have a listen [on Anchor FM](https://anchor.fm/ink19-nmn).
+_Room 19_ is _Ink 19_'s podcast collection, available on most podcast platforms. Event, book, food, and film categories supplement our main music-focused podcast, _New Music Now_. Podcast episodes are produced and engineered by our Audio team and feature an _Ink 19_ host, interesting and relevant guests, and typically a musical component.
+
 - __To participate or propose something new, reach out to the [Audio Editors](mailto:audio@ink19.com) with your idea.__
 
 ## New Music Now
@@ -22,6 +23,6 @@ Once the [Audio Editors](mailto:audio@ink19.com) have approved your episode idea
 - _The Living Room_ captures live events with jazzy banter from our _Ink 19_ host.
 - _Ink 19 Magazine_’s _Reading Room_ is a celebration of books and the people who write good ones.
 - The _Dining Room_ is an _Ink 19 Magazine_ podcast about food and drink that will leave you with serious cravings.
-- _Ink 19_'s _Screening Room_ is an expos&eacute; of one of the the films, TV shows, or video games we're looking at now.
+- _Ink 19_'s _Screening Room_ is an expos&eacute; of one of the films, TV shows, or video games we're looking at now.
 
 &nbsp;

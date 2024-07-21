@@ -4,6 +4,8 @@ author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2022-04-21T18:00:38.000-04:00'
 ---
+This material is intended for _Ink 19_ staff. Not you? [Apply here](https://ink19.com/staff/join-us).
+
 *notes from Phil Bailey, Jen Cray, and Ian Koss*
 
 ## Show Up Prepared
@@ -43,11 +45,10 @@ last_update: '2022-04-21T18:00:38.000-04:00'
 
 - Shoot a bunch of photos.  
 - Try different settings as you go and check your screen occasionally to see what you’re getting.  
-- You’re probably only going to get 2-3 songs to shoot so make it count.
+- You’re probably only going to get 2-3 songs to shoot, so make it count.
 
 ## Wear Earplugs
 
 - Up against the stage is so much louder than just being in the room.  
 - Always wear earplugs to protect your hearing.
 
-&nbsp;

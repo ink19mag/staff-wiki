@@ -4,7 +4,9 @@ author_name: Rose Petralia
 author_email: rose@lacking.org
 last_update: '2021-03-11T02:14:07.000+00:00'
 ---
-Read below for some guidelines and hope for the future should your beautiful, high-res concert photos be sending you over the edge.
+This material is intended for _Ink 19_ staff. Not you? [Apply here](https://ink19.com/staff/join-us).
+
+Read below for some guidelines and hope for the future should your beautiful, high-res concert photos be sending you over the edge. If these guidelines don't help, [get in touch](mailto:editors@ink19.com)!
 
 ## Size and resolution
 
@@ -21,11 +23,11 @@ Read below for some guidelines and hope for the future should your beautiful, hi
 - Set alignment. For vertical photos, choose left or right. For wide photos, choose center.
 - Click Save.
 
-You should now see a preview of your image in the uploader dialog&mdash;if you do not, most likely your image is too large. Reduce its file size to below 200K, and try again.
+You should now see a preview of your image in the uploader dialog &mdash; if you do not, most likely your image is too large. Reduce its file size to below 200K, and try again. 
 
 ## Inserting
 
-In the story form, enter your image name on its own line (one clear line above and below), surrounded by double brackets: `[[image.jpg]]`.
+In the story form, enter your image name on its own line (one completely blank line above and below), surrounded by double brackets: `[[image.jpg]]`.
 
 ## Help
 
