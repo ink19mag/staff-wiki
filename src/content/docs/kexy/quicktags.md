@@ -1,10 +1,12 @@
 ---
 title: Formatting with Quicktags
-draft: true
 author_name: Rose Petralia
 author_email: rose@lacking.org
-last_update: '2021-03-10T02:32:53.000+00:00'
+last_update: '2026-04-24T00:00:00.000-04:00'
 ---
+
+This page is the complete Quicktags reference. For the shorter contributor-facing summary, see the [Formatting](../editorial/formatting) page in the Editorial section.
+
 ## What are Quicktags?
 
 Within Ink 19, "Quicktags" refers to the markup we use to render text and paragraph formatting as proper HTML on the website.

@@ -1,8 +1,10 @@
 ---
+sidebar:
+  order: 8
 title: AI + LLM Policy
 author_name: Ian Koss
 author_email: ian@ink19.com
-last_update: '2026-04-02T12:51:34.000-04:00'
+last_update: '2026-04-24T00:00:00.000-04:00'
 ---
 _Effective April 2026_
 
