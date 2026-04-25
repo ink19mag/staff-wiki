@@ -14,7 +14,7 @@ _Ink 19_ is committed to honest, original, and human music and culture journalis
 
 - The author is always responsible for the accuracy and originality of the final work.
 - Authors must personally verify any AI output for hallucinations, plagiarism, and bad citations.
-- AI tools must be disclosed to editors, and are permitted only as defined in this policy.
+- AI tools are permitted only as defined in this policy. If you are not sure, please [contact the editors](mailto:editors@ink19.com).
 - These tools are allowed to assist with your writing, not to replace it.
 - AI-generated images, audio, and video are not allowed.
 - All quotations, background material, and images must come from real, verifiable sources.
