@@ -1,18 +1,20 @@
 ---
+sidebar:
+  order: 8
 title: AI + LLM Policy
 author_name: Ian Koss
 author_email: ian@ink19.com
-last_update: '2026-04-02T12:51:34.000-04:00'
+last_update: '2026-04-24T00:00:00.000-04:00'
 ---
-_Effective April 2026_
+_Effective May 2026_
 
-_Ink 19_ is committed to honest, original, and human music and culture journalism. This policy governs how artificial intelligence tools — including large language models, image generators, and related technologies — may and may not be used by _Ink 19_ staff and contributors. These rules exist to protect our writers, readers, sources, and the integrity of the publication. We believe in human voices writing about human music. AI is a tool, not a byline.
+_Ink 19_ is committed to honest, original, and human music and culture journalism. We also recognize that "AI" tools can be useful and can have a legitimate role in the process of writing. This policy governs how these tools — including large language models, image generators, and related technologies — may and may not be used by _Ink 19_ staff and contributors. These rules exist to protect our writers, readers, sources, and the integrity of the publication. We believe in human voices writing about human music. AI is a tool, not a byline.
 
 ## Summary
 
 - The author is always responsible for the accuracy and originality of the final work.
 - Authors must personally verify any AI output for hallucinations, plagiarism, and bad citations.
-- AI tools must be disclosed to editors, and are permitted only as defined in this policy.
+- AI tools are permitted only as defined in this policy. If you are not sure, please [contact the editors](mailto:editors@ink19.com).
 - These tools are allowed to assist with your writing, not to replace it.
 - AI-generated images, audio, and video are not allowed.
 - All quotations, background material, and images must come from real, verifiable sources.
@@ -74,5 +76,3 @@ Failure to observe any provision of this policy may result in:
 ## § 8 — Policy Review
 
 This policy will be reviewed no less than annually, or sooner in response to material changes in AI technology, industry standards, or applicable law. Contributors are responsible for remaining current with the latest version as published on the _Ink 19_ staff site. Questions should be directed to the publisher.
-
-_This document was originally generated with assistance from Claude Sonnet 4.6 on April 1, 2026_
