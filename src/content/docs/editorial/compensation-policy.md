@@ -6,7 +6,7 @@ author_name: Ian Koss
 author_email: ian@ink19.com
 last_update: '2026-04-24T00:00:00.000-04:00'
 ---
-_Effective April 2026_
+_Effective May 2026_
 
 _Ink 19_ is an all-volunteer publication. Our credibility with readers, artists, and the industry depends on the fact that nothing we publish is for sale. This policy describes how that principle works in practice for staff and contributors.
 
