@@ -1,6 +1,6 @@
 ---
 sidebar:
-  order: 8
+  order: 9
 title: AI + LLM Policy
 author_name: Ian Koss
 author_email: ian@ink19.com

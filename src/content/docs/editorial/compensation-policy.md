@@ -1,6 +1,6 @@
 ---
 sidebar:
-  order: 9
+  order: 10
 title: Compensation Policy
 author_name: Ian Koss
 author_email: ian@ink19.com

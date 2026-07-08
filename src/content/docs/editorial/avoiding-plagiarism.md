@@ -1,6 +1,6 @@
 ---
 sidebar:
-  order: 10
+  order: 8
 title: Avoiding Plagiarism
 author_name: Rose Petralia
 author_email: editors@ink19.com
